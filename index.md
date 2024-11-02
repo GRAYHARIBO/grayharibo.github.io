@@ -107,110 +107,106 @@ title: Home
 
 
 ## Engineering Projects
-
 <div class="row">
-  <div class="flex-column-sm"> 
-  <a class="nochangelink" href="portfolio/helium_drone">
-  <div class="card">
-   <img src="/images/helium1.jpg" alt="Face-Recognizing Security Helium Balloon Drone" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Face-Recognizing Security Drone</strong>
-   <p>Mechatronics course project (budget: 100,000 KRW).<br> Implemented face recognition using Raspberry Pi, YOLO, and OpenCV.</p>
+  <div class="column"> 
+    <a class="nochangelink" href="portfolio/helium_drone">
+      <div class="card">
+        <img src="/images/helium1.jpg" alt="Face-Recognizing Security Helium Balloon Drone" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Helium Drone for Indoor Security</strong>
+          <p>Hardware Lead, Computer Vision Developer</p>
+        </div>
+      </div>
+    </a>
   </div>
-  </div>
-  </a>
+
+  <div class="column">
+    <a class="nochangelink" href="portfolio/fundamental_matrix">
+      <div class="card">
+        <img src="/images/fundamental_matrix.png" alt="Fundamental Matrix and SVD-based Background Restoration Algorithm" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Background Restoration Algorithm</strong>
+          <p>Excellence Award, Team Leader</p>
+        </div>
+      </div>
+    </a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-  <a class="nochangelink" href="portfolio/fundamental_matrix">
-  <div class="card">
-    <img src="/images/fundamental_matrix.png" alt="Fundamental Matrix and SVD-based Background Restoration Algorithm" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-    <strong>Background Restoration Algorithm</strong>
-    <p>Developed a background restoration algorithm using Fundamental Matrix and SVD.</p>
-  </div>
-  </div>
-  </a>
+    <a class="nochangelink" href="/portfolio/autonomous_driving">
+      <div class="card">
+        <img src="/images/autonomous_driving.jpg" alt="Autonomous Driving Competition" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Autonomous Driving Competition</strong>
+          <p>Best Design Award, Developer</p>
+        </div>
+      </div>
+    </a>
   </div>
 
   <div class="column">
-  <a class="nochangelink" href="/portfolio/autonomous_driving">
-  <div class="card">
-  <img src="/images/autonomous_driving.jpg" alt="Autonomous Driving Competition" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Autonomous Driving Competition</strong>
-   <p>Developed obstacle detection and communication algorithms using LIDAR, and an environmental perception model using YOLO V5.</p>
-  </div>
-  </div>
-  </a>
+    <a class="nochangelink" href="/portfolio/racing_toy_car">
+      <div class="card">
+        <img src="/images/racing_toy_car1.jpg" alt="Racing Toy Car Design and Manufacture" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Racing Toy Car</strong>
+          <p>Manufacturing and Design</p>
+        </div>
+      </div>
+    </a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-  <a class="nochangelink" href="/portfolio/racing_toy_car">
-  <div class="card">
-  <img src="/images/racing_toy_car1.jpg" alt="Racing Toy Car Design and Manufacture" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Racing Toy Car</strong>
-   <p>Designed and manufactured a custom toy car for speed racing.</p>
-  </div>
-  </div>
-  </a>
-  </div>
-
-  <div class="column">
-  <a class="nochangelink" href="/portfolio/baja_team">
-  <div class="card">
-   <img src="/images/runtoyou2.png" alt="Run to You BAJA Team" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>BAJA Off-Road Car Project</strong>
-   <p>Participated in "Run to You" car club, competing in the 2018 KSAE Baja event. Gained hands-on experience in welding, grinding, soldering, and using SolidWorks.</p>
-  </div>
-  </div>
-  </a>
-  </div>     
- </div>
-
-<div class="row">
-  <div class="column">
-  <a class="nochangelink" href="/portfolio/musical_set">
-  <div class="card">
-   <img src="/images/letme1.jpg" alt="Musical Set Design and Fabrication" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Musical Set Fabrication</strong>
-   <p>Designed and built sets for musical productions using CAD, welding, and woodworking techniques.</p> 
-  </div>
-  </div>
-  </a>
+    <a class="nochangelink" href="/portfolio/baja_team">
+      <div class="card">
+        <img src="/images/runtoyou2.png" alt="Run to You BAJA Team" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>BAJA Off-Road Car Project</strong>
+          <p>Team member</p>
+        </div>
+      </div>
+    </a>
   </div>
 
   <div class="column">
-  <a class="nochangelink" href="/portfolio/pneumatic_robot">
-  <div class="card">
-   <img src="/images/changgong.jpg" alt="Pneumatic Robot for Transport" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Pneumatic Transport Robot</strong>
-   <p>Developed a pneumatic robot capable of transport tasks.</p> 
-  </div>
-  </div>
-  </a>
+    <a class="nochangelink" href="/portfolio/musical_set">
+      <div class="card">
+        <img src="/images/letme1.jpg" alt="Musical Set Design and Fabrication" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Musical Set Design</strong>
+          <p>Technical Lead</p>
+        </div>
+      </div>
+    </a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-  <a class="nochangelink" href="/portfolio/bluetooth_power_strip">
-  <div class="card">
-   <img src="/images/sigma1.png" alt="Bluetooth-Controlled Power Strip" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-  <div class="container">
-   <strong>Bluetooth-Controlled Power Strip</strong>
-   <p>Robotics Club (SIGMA) project. Designed a smartphone-controlled power strip using C and Android Studio.</p> 
+    <a class="nochangelink" href="/portfolio/pneumatic_robot">
+      <div class="card">
+        <img src="/images/changgong.jpg" alt="Pneumatic Robot for Transport" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Transport Robot</strong>
+          <p>Team member</p>
+        </div>
+      </div>
+    </a>
   </div>
-  </div>
-  </a>
+
+  <div class="column">
+    <a class="nochangelink" href="/portfolio/bluetooth_power_strip">
+      <div class="card">
+        <img src="/images/sigma1.png" alt="Bluetooth-Controlled Power Strip" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Bluetooth-Controlled Power Strip</strong>
+          <p>Technical Lead</p>
+        </div>
+      </div>
+    </a>
   </div>
 </div>
-
