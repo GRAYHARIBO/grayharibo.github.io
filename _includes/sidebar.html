@@ -1,23 +1,19 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" >
+     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
      <!-- Toggleable sidebar -->
-     <div class="sidebar" id="sidebar" style="z-index:1;">
-       <div class="sidebar-logo" style="align:center; padding-bottom: 0rem;">
-           <img src="/images/dongsu1.jpg" alt="Dongsu Choi Profile" />
+     <div class="sidebar" id="sidebar" style="z-index:1; position: fixed; top: 0; height: 100%; overflow-y: auto;">
+       <div class="sidebar-logo" style="text-align:center; padding-bottom: 0rem;">
+         <img src="/images/dongsu1.jpg" alt="Dongsu Choi Profile" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
        </div>
+       
        <div class="sidebar-item">
          <p>I am a 4th-year Mechanical Engineering student at Seoul National University, focusing on robotics and bioelectronics.</p>
        </div>
      
        <nav class="sidebar-nav">
          <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-     
-         {% comment %}
-           The code below dynamically generates a sidebar nav of pages with
-           `layout: page` in the front-matter. See readme for usage.
-         {% endcomment %}
      
          {% assign pages_list = site.pages | sort:"url" %}
          {% for node in pages_list %}
@@ -28,15 +24,13 @@
            {% endif %}
          {% endfor %}
      
-         <!-- Blog 링크를 CV 페이지로 변경 -->
+         <!-- CV 링크 (Blog 링크 대체) -->
          <a class="sidebar-nav-item{% if page.title == 'CV' %} active{% endif %}" href="{{ '/cv' | absolute_url }}">CV</a>
-         <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+         <span class="sidebar-nav-item">Last update: {{ site.time | date: "%Y-%m-%d" }}</span>
        </nav>
      
        <div class="sidebar-item">
-         <p>
-           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-         </p>
+         <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
        </div>
      </div>
      
