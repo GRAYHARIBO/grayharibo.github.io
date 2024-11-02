@@ -1,22 +1,21 @@
-# :black_nib: Jehan Yang's Website
+# :black_nib: Dongsu Choi's Portfolio Website
 
-This site uses the Lanyon template and is modified to have a card-based portfolio.
+This site is based on the Lanyon template created by [Jehan Yang](https://github.com/jehanyang) and has been modified by [Dongsu Choi](https://github.com/GRAYHARIBO) to include a card-based portfolio layout.
 
 ## Contents
 
 - [Author](#author)
 - [License](#license)
 
-
 ## Author
 
-**Jehan Yang**
-- <https://github.com/jehanyang>
-- <https://twitter.com/jehanyang>
-
+**Dongsu Choi**
+- GitHub: <https://github.com/GRAYHARIBO>
+- LinkedIn: <https://www.linkedin.com/in/dongsu-choi-55a8442a0/>
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+This project is open sourced under the [MIT license](LICENSE.md).
 
 <3
+

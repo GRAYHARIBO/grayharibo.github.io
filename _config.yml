@@ -1,8 +1,8 @@
 # Setup
-title:               'Jehan Yang'
-tagline:             'Pursuing Work in Advanced Robotics'
-description:         'I am a <b>PhD student at CMU</b > that works on healthcare robotics! This is my <b>personal website</b > where I hope to put impactful advice and ideas for aspiring robotics enthusiasts.'
-url:                 https://jehanyang.github.io
+title:               'Dongsu Choi'
+tagline:             'Exploring Robotics and Bioelectronics'
+description:         'I am a 4th-year Mechanical Engineering student at Seoul National University, focusing on robotics and bioelectronics. This is my personal website where I share my projects and research.'
+url:                 https://grayharibo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -11,9 +11,9 @@ remote_name:         "poole/lanyon"
 
 # About/contact
 author:
-  name:              Jehan Yang
-  url:               https://twitter.com/jehanyang
-  email:             jehanyang@gmail.com
+  name:              Dongsu Choi
+  url:               https://www.linkedin.com/in/dongsu-choi-55a8442a0/
+  email:             dongsu.choi00@gmail.com
 
 # Gems
 plugins:
@@ -21,4 +21,7 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics:    G-VZP2NHHH8D
+google_analytics:    G-YEG04ED7EY
+
+
+
