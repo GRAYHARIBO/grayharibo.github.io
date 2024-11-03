@@ -4,9 +4,15 @@ title: Home
 ---
 <h1 id="home" style="margin-block-start:0">Home</h1>
 
+<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal; margin-bottom:0.2rem">
+	👋 Hello there, I'm <b>Dongsu Choi</b>! Welcome to my personal website.
+	I am a senior undergraduate student at Seoul National University (SNU), majoring in Mechanical Engineering with a minor in Material Science & Engineering. My academic and research journey has taken me from Seoul to Germany and back, with the goal of developing innovative bioelectronics and robotic solutions to help people live healthier and more connected lives.
+</h3>
+
 <!-- <h3 class="message" style="line-height: 1.5; font-weight: normal"> </h3> -->
 <!--Feel free to check out my blog too. It will be mostly about graduate school and some content I think will be relevant for students studying engineering and computer science. 
 ## Recent News -->
+
 <ul style="margin-bottom:0px">
 <li><em>Feb. 2025</em>&mdash;I will graduate from Seoul National University with a B.S. in Mechanical Engineering and a minor in Material Science & Engineering.</li>
 <li><em>Jul. 2024</em>&mdash;I started my internship at the Printed, Flexible Nano, Neuromorphic & Energy Electronics Laboratory, working on robotic hand applications using organic semiconductor devices.</li>
