@@ -74,7 +74,7 @@ title: Home
   </div>
 
   <div class="column">
-    <a class="nochangelink" href="/portfolio/future_mobility">
+    <a class="nochangelink" href="/portfolio/autonomous_driving">
       <div class="card">
         <img src="/images/fmtc1.png" alt="Future Mobility Technology Research" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
         <div class="container">
@@ -101,12 +101,23 @@ title: Home
     </a>
   </div>
 </div>
-
+<!-- 
+<div class="column">
+    <a class="nochangelink" href="/portfolio/autonomous_driving">
+      <div class="card">
+        <img src="/images/autonomous_driving.jpg" alt="Autonomous Driving Competition" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <div class="container">
+          <strong>Autonomous Driving Competition</strong>
+          <p>Best Design Award, Developer</p>
+        </div>
+      </div>
+    </a>
+  </div> -->
 
 <!-- 기존 Engineering Portfolio 섹션 코드는 여기 아래에 유지 -->
 
 
-## Engineering Projects
+## Engineering Projects (Currently updating...)
 <div class="row">
   <div class="column"> 
     <a class="nochangelink" href="portfolio/helium_drone">
@@ -135,17 +146,17 @@ title: Home
 
 <div class="row">
   <div class="column">
-    <a class="nochangelink" href="/portfolio/autonomous_driving">
+    <a class="nochangelink" href="/portfolio/baja_team">
       <div class="card">
-        <img src="/images/autonomous_driving.jpg" alt="Autonomous Driving Competition" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <img src="/images/runtoyou2.png" alt="Run to You BAJA Team" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
         <div class="container">
-          <strong>Autonomous Driving Competition</strong>
-          <p>Best Design Award, Developer</p>
+          <strong>BAJA Off-Road Car Project</strong>
+          <p>Team member</p>
         </div>
       </div>
     </a>
   </div>
-
+  
   <div class="column">
     <a class="nochangelink" href="/portfolio/racing_toy_car">
       <div class="card">
@@ -161,17 +172,17 @@ title: Home
 
 <div class="row">
   <div class="column">
-    <a class="nochangelink" href="/portfolio/baja_team">
+    <a class="nochangelink" href="/portfolio/bluetooth_power_strip">
       <div class="card">
-        <img src="/images/runtoyou2.png" alt="Run to You BAJA Team" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
+        <img src="/images/sigma1.png" alt="Bluetooth-Controlled Power Strip" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
         <div class="container">
-          <strong>BAJA Off-Road Car Project</strong>
-          <p>Team member</p>
+          <strong>Bluetooth-Controlled Power Strip</strong>
+          <p>Technical Lead</p>
         </div>
       </div>
     </a>
   </div>
-
+  
   <div class="column">
     <a class="nochangelink" href="/portfolio/musical_set">
       <div class="card">
@@ -193,18 +204,6 @@ title: Home
         <div class="container">
           <strong>Transport Robot</strong>
           <p>Team member</p>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="column">
-    <a class="nochangelink" href="/portfolio/bluetooth_power_strip">
-      <div class="card">
-        <img src="/images/sigma1.png" alt="Bluetooth-Controlled Power Strip" style="width: 100%; height: 200px; border-radius: 5px; object-fit: cover;">
-        <div class="container">
-          <strong>Bluetooth-Controlled Power Strip</strong>
-          <p>Technical Lead</p>
         </div>
       </div>
     </a>

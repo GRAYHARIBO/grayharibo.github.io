@@ -10,14 +10,12 @@ Undergraduate Research Intern, Sep. 2023 – Jun. 2024  <br>
 The <a href="https://hero.snu.ac.kr/">Healthcare Robotics Lab (HeRo Lab)</a> at Seoul National University specializes in implantable medical devices and soft actuators. Under the supervision of Prof. Amy Kyungwon Han, I worked alongside Yongjin Kim and Jeong Hyeon Lee on developing soft actuators designed to prevent heart failure, as well as pneumatic soft actuators without drivelines.
 </div>
 
-<img src="/images/svc.jpg" alt="SVC Occlusion Mechanism" style="width: 50%; float: right; margin: 0.5rem; border-radius: 5px;">
-
+<img src="/images/svc.jpg" alt="SVC Occlusion Mechanism" style="width: 40%; float: left; margin: 0.5rem; border-radius:0;">
+<!-- 
 <div style="clear: both;"></div>
 <small style="display: block; text-align: right; font-size: 0.8rem; margin-top: -0.5rem;">
     Image Source: <a href="https://my.clevelandclinic.org" target="_blank" style="color: #555;">Cleveland Clinic</a>
-</small>
-
-
+</small> -->
 
 Heart failure can be caused by various factors, including coronary artery diseases like angina or myocardial infarction, which are often linked to aging. Other causes include primary myocardial diseases and hypertension. To address heart failure, mechanical circulatory support devices like Left or Right Ventricular Assist Devices (LVADs or RVADs) and intra-aortic balloon pumps are sometimes used. For our project, we investigated a technique based on findings that show occluding and releasing the superior vena cava (SVC) in patients with high pulmonary arterial pressure could reduce the pressure exerted on the pulmonary artery. This concept, outlined in [Kapur et al. (2019)](https://link.springer.com/article/10.1007/s12265-019-09916-y), formed the foundation for developing our SVC occlusion mechanism.
 
@@ -34,7 +32,7 @@ To create an effective occlusion and release mechanism for the SVC, I developed 
    - I designed and tested two types of actuators for this purpose:
      - **Peano-HASEL Actuators**: Using electrostatic and hydraulic principles, this actuator shortens in length upon voltage application. I fabricated this actuator and tested its feasibility for controlled SVC occlusion, confirming its potential (see image below).
      
-       <img src="/images/peano_hasel.png" alt="Peano-HASEL Actuator Prototype" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
+       <img src="/images/peano_hasel.png" alt="Peano-HASEL Actuator Prototype" style="width: 40%; margin: 0.5rem; border-radius: 5px;">
 
      - **Liquid-Gas Phase Change Actuator**: This actuator, which I developed in more depth, leverages the phase transition of a low-boiling point material to achieve effective occlusion without a driveline.
 

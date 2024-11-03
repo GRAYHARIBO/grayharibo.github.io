@@ -13,7 +13,7 @@ The <a href="https://www.fmtc.snu.ac.kr/">Future Mobility Technology Center (FMT
 ## 1. Autonomous Driving Training Program
 
 Throughout December 2022, I attended a month-long training program on the essential components of autonomous driving, covering **perception, decision-making, and control systems**. Led by Prof. Kyongsu Yi and FMTC researchers, the sessions detailed the required specifications, algorithm types, and current developmental stages in academia and industry. Additionally, I gained hands-on experience in autonomous vehicle technology on **FMTC’s internal driving track**, where I observed and interacted with various autonomous vehicles under development, including an opportunity to drive a self-driving truck.
-<img src="/images/fmtc_truck.png" alt="Driving an Autonomous Truck" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
+
 
 
 In this program, I worked with tools such as **ROS, Ubuntu, Python, MATLAB, and CATIA** to implement:
@@ -23,8 +23,8 @@ In this program, I worked with tools such as **ROS, Ubuntu, Python, MATLAB, and 
 - **Kalman Filtering**: Utilized radar and GPS data in Kalman filtering to enhance vehicle positioning accuracy.
 
 This experience provided a comprehensive understanding of autonomous driving systems and insights into the development of real-world applications.
-
-<img src="/images/fmtc_radar.png" alt="Radar Practical Exercise" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
+<img src="/images/fmtc_truck.png" alt="Driving an Autonomous Truck" style="width: 25%; margin: 0.5rem; border-radius: 5px;">
+<img src="/images/fmtc_radar.png" alt="Radar Practical Exercise" style="width: 72%; margin: 0.5rem; border-radius: 5px;">
 
 ## 2. Sungkyunkwan University Future Mobility Automated Driving Software Contest
 
