@@ -18,11 +18,21 @@ In the **Soft Robotics & Bionics Laboratory**, I engaged in research focused on 
 ### 1. Hall Sensor-Based Tactile Sensor for Stress Measurement
 
 This project aimed to measure **normal** and **shear stress** on the skin through a sensor design incorporating **four Hall sensors** and a **neodymium magnet** embedded within a silicone structure. By calibrating the sensor distances, I created a sensor capable of accurately measuring stress on various areas, which could be applied to wearable suits for precise feedback in soft robotics. I fabricated approximately 100 units of this sensor to validate its design and functionality.
-<img src="/images/park_myo.png" alt="Wearable Sensor Diagram" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
-<img src="/images/park_myosensor2.png" alt="Wearable Sensor " style="width: 50%; margin: 0.5rem; border-radius: 5px;">
+<div class="image-grid" style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/images/park_myo.png" alt="Wearable Sensor Diagram" style="width: 100%; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/images/park_myosensor2.png" alt="Wearable Sensor" style="width: 100%; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/images/park_mark.png" alt="Mark-10 Force Evaluation" style="width: 100%; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/images/park_matlab.png" alt="MATLAB Analysis" style="width: 100%; border-radius: 5px;">
+  </div>
+</div>
 
-<img src="/images/park_mark.png" alt="Mark-10 Force Evaluation" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
-<img src="/images/park_matlab.png" alt="Mark-10 Force Evaluation" style="width: 50%; margin: 0.5rem; border-radius: 5px;">
 
 ### 2. Soft Inductive Tactile Sensors Using Eddy Currents
 
