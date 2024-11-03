@@ -6,9 +6,10 @@ title: Organic Semiconductor Devices for Robotic Applications
 # {{ page.title }}
 
 <div class="message">
-Undergraduate Research Intern, Jul. 2024 – Present
-The <a href="https://www.pnel.snu.ac.kr/">Printed, Flexible Nano, Neuromorphic & Energy Electronics Laboratory (PNEL)</a> at Seoul National University specializes in Neuromorphic Semiconductor Bioelectronics. Under the supervision of Prof. Tae-Woo Lee, I am collaborating with Kwan-Nyeong Kim and Seung-Woo Lee on Organic Semiconductor Devices and their applications in robotics.
+  Undergraduate Research Intern, Jul. 2024 – Present<br> 
+  The <a href="https://www.pnel.snu.ac.kr/">Printed, Flexible Nano, Neuromorphic & Energy Electronics Laboratory (PNEL)</a> at Seoul National University specializes in Neuromorphic Semiconductor Bioelectronics. Under the supervision of <strong>Prof. Tae-Woo Lee</strong>, I am collaborating with Kwan-Nyeong Kim and Seung-Woo Lee on Organic Semiconductor Devices and their applications in robotics.
 </div>
+
 
 > *(This study is close to submission, so detailed findings cannot be disclosed until the publication is finalized. Once published, I will make the full manuscript available here.)*
 
