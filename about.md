@@ -12,10 +12,9 @@ title: About me :)
 
 <h2>Research Interests</h2>
 <p>My core research interests are in:</p>
-<ul>
-  <li>**Soft Bioelectronics** for health monitoring and therapeutic applications, focusing on skin-integrated and stretchable sensors for seamless biological interfaces</li>
-  <li>**Biointeractive Organic Electronics**: Developing organic mixed ionic-electronic conductors (OMIECs) and other flexible bioelectronic materials for wearable and implantable devices</li>
-</ul>
+<p><strong>Soft Bioelectronics</strong> for health monitoring and therapeutic applications, focusing on skin-integrated and stretchable sensors for seamless biological interfaces</p>
+<p><strong>Biointeractive Organic Electronics</strong>: Developing organic mixed ionic-electronic conductors (OMIECs) and other flexible bioelectronic materials for wearable and implantable devices</p>
+
 
 <p>Through my various projects, I have delved into neuroelectronics, robotic applications, soft actuators, and soft sensors—all driven by a desire to bridge technology to assist human life.</p>
 
